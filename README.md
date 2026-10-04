@@ -30,4 +30,8 @@ Learned the basics of Linux, how the shell and terminal work, how to navigate th
 
 </details>
 
+<details> 
+    <summary><strong>04/10/26 — Nothing But college assignment and sunday funday</strong></summary>
+</details>
+
 ---
