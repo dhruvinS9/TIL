@@ -33,5 +33,32 @@ Learned the basics of Linux, how the shell and terminal work, how to navigate th
 <details> 
     <summary><strong>04/10/26 — Nothing But college assignment and sunday funday</strong></summary>
 </details>
+<details>
+<summary><strong>05/10/26 — Linux Fundamentals (Day 3)</strong></summary>
+
+Learned more Linux commands, file management, searching, and how Linux executes programs and manages environment variables.
+
+**Topics Covered:**
+
+- `touch`
+- Directories
+- Moving files and directories
+- Renaming files and directories
+- Home Directory
+- `grep`
+- `find`
+- Compiled vs. Interpreted Languages
+- Executables
+- Shebang (`#!`)
+- Bourne Shell
+- Environment Variables
+- `PATH`
+- Changing the `PATH` variable
+
+**Key Takeaway:**
+
+Learned how to create, move, rename, and search files in Linux, and understood how executables, shells, environment variables, and the `PATH` variable work together when running commands.
+
+</details>
 
 ---
