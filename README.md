@@ -61,4 +61,47 @@ Learned how to create, move, rename, and search files in Linux, and understood h
 
 </details>
 
+<details>
+<summary><strong>06/10/26 — Linux Input/Output & Bash Script (College assignment SUCKS!)</strong></summary>
+
+Learned the basics of Linux input/output and practiced them by creating a small Bash script to check my development environment.|
+Today is less leaning beacuse of collge thing  hopefully within2 days ii complte linux
+
+**Topics Covered:**
+- Linux Input / Output basics
+- `echo`
+- Variables in Bash
+- `which`
+- Basic Bash scripting
+- Created a Dev Environment Check script
+- College assignments and other coursework
+
+**Project: Dev Environment Check**
+
+Created a simple Bash script that displays:
+- Current user
+- Home directory
+- Git installation path
+- Node.js installation path
+
+```bash
+#!/bin/bash
+
+echo "========================="
+echo "= DEV ENVIRONMENT CHECK ="
+echo "========================="
+
+echo "User : $USER"
+echo "Home : $HOME"
+
+echo ""
+
+echo "Git:"
+which git
+
+echo ""
+
+echo "Node:"
+which node
+
 ---
