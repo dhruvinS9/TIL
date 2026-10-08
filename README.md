@@ -103,5 +103,18 @@ echo ""
 
 echo "Node:"
 which node
+`````
+</details>
+
+<details>
+    <summary><strong>07/10/26 — NOTHING (college assignmnet)</strong></summary>
+    Spent the day on college work and did not make meaningful progress on Linux.
+</details>
+<details>
+    <summary><strong>08/10/26 — NOTHING (college assignmnet)</strong></summary>
+    Spent the day completing college assignments, so I did not study Linux today.
+</details>
+
+
 
 ---
