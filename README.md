@@ -116,6 +116,16 @@ which node
     Spent the day completing college assignments, so I did not study Linux today.
 </details>
 
+<details>
+    <summary><strong>09/10/26 — NOTHING</strong></summary>
+    Did not make meaningful progress today.
+</details>
+
+<details>
+    <summary><strong>10/10/26 — Started Python</strong></summary>
+    Started learning Python. This might take 2–3 days to finish.
+</details>
+
 
 
 ---
